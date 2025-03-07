@@ -1,2 +1,2 @@
-# JavaScript-Logic-
+# JavaScript-Logic
 Design: CodeWithSMR
