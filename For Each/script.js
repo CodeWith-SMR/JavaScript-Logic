@@ -39,6 +39,12 @@ products.forEach((product) => {
 });
 
 
+const nums = [3, 6, 9, 12, 15, 18, 21, 24];
+nums.forEach((evenOdd) => {
+  console.log(`${evenOdd} is ${evenOdd % 2 === 0 ? "Even" : "Odd"}`)
+});
+
+
 const words = ["JavaScript", "React", "Node", "MongoDB"];
 words.forEach((word) => {
   console.log(`Word: ${word} Length: ${word.length}`)
