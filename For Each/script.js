@@ -29,4 +29,14 @@ numArray.forEach((number) => {
 });
 
 
+const products = [
+    { name: "Laptop", price: 50000 },
+    { name: "Phone", price: 30000 },
+    { name: "Tablet", price: 20000 }
+];
+products.forEach((product) => {
+  console.log(`Product: ${product.name} Price: ${product.price}`)
+})
+
+
 
