@@ -54,4 +54,27 @@ words.forEach((word) => {
 const names = ["ali", "aisha", "raza", "sara"];
 names.forEach((Uppercase) => {
   console.log(Uppercase.toUpperCase())
-})
+});
+
+
+const students1 = [
+    { name: "Ali", marks: 85 },
+    { name: "Aisha", marks: 92 },
+    { name: "Raza", marks: 78 },
+    { name: "Sara", marks: 90 }
+];
+students1.forEach((grade) => {
+  if(grade.marks >= 90) {
+    console.log(`${grade.name} got Grade A`);
+    }else if(grade.marks >= 80) {
+    console.log(`${grade.name} got Grade B`);
+    }else if(grade.marks >= 70) {
+    console.log(`${grade.name} got Grade C`);
+    }else if(grade.marks >= 60) {
+    console.log(`${grade.name} got Grade D`);
+    }else if(grade.marks >= 50) {
+    console.log(`${grade.name} got Grade F`);
+    }else{
+    console.log("Enter valid marks");
+    }
+});
