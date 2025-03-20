@@ -50,3 +50,8 @@ words.forEach((word) => {
   console.log(`Word: ${word} Length: ${word.length}`)
 });
 
+
+const names = ["ali", "aisha", "raza", "sara"];
+names.forEach((Uppercase) => {
+  console.log(Uppercase.toUpperCase())
+})
