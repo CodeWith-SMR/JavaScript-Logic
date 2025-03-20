@@ -36,7 +36,11 @@ const products = [
 ];
 products.forEach((product) => {
   console.log(`Product: ${product.name} Price: ${product.price}`)
-})
+});
 
 
+const words = ["JavaScript", "React", "Node", "MongoDB"];
+words.forEach((word) => {
+  console.log(`Word: ${word} Length: ${word.length}`)
+});
 
