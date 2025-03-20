@@ -78,3 +78,15 @@ students1.forEach((grade) => {
     console.log("Enter valid marks");
     }
 });
+
+
+const emails = ["user1@gmail.com", "user2@yahoo.com", "user3@gmail.com", "user4@outlook.com"];
+emails.forEach((email) => {
+  if(email.endsWith("@gmail.com")) {
+    console.log(`${email} is a valid Gmail address.`);
+  }else if(email.endsWith("@yahoo.com")) {
+    console.log(`${email} is NOT a Gmail address.`);
+  }else if(email.endsWith("@outlook.com")) {
+    console.log(`${email} is NOT a Gmail address.`);
+  }
+})
