@@ -23,6 +23,4 @@ Am I a student? true
 Agar koi issue ho to batao, main help karunga. 🚀
 
 
-
-
-//01_Exercise/task.js
+01_Exercise/task.js
