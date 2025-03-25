@@ -1,12 +1,13 @@
-let myName = "My name is Muhammad Raza";
-console.log(myName);
+let myName = "Muhammad Raza";
+console.log(`My name is ${myName}`);
 
 
-let age = "I am 20y years old";
-console.log(age);
+let age = 20;
+console.log(`I am ${age} years old`);
 
 
-let isStudent = true;
+let isStudent = true; // Tum student ho to true, warna false
+console.log(`Am I a Student? ${isStudent}`);
 
 
 //01_Exercise/solve.js
