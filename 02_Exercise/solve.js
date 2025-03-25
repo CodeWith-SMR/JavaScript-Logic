@@ -2,3 +2,5 @@
 
 // (Solution Code)
 
+let marks = 78;
+
