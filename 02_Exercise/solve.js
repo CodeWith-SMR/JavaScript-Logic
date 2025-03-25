@@ -2,5 +2,9 @@
 
 // (Solution Code)
 
-let marks = 78;
+let marks = 95;
 
+if(marks => 90 && marks <= 100) {
+    console.log("Grade: A+");
+    
+}
