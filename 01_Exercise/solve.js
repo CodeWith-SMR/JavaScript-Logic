@@ -1,3 +1,7 @@
+//🔹Exercise 1: Variables & Data Types
+
+// (Solution Code)
+
 let myName = "Muhammad Raza";
 console.log(`My name is ${myName}`);
 
