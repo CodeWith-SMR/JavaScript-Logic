@@ -1,0 +1,27 @@
+🔹 Exercise 2: Conditions (if-else, else if)
+
+👉 Task:
+Ek variable marks banao aur isme kisi bhi number ko store karo.
+
+Conditions ka use karo:
+
+Agar marks 90 ya usse zyada ho, to print karo: "Grade: A+"
+
+Agar marks 80 ya usse zyada ho, to print karo: "Grade: A"
+
+Agar marks 70 ya usse zyada ho, to print karo: "Grade: B"
+
+Agar marks 60 ya usse zyada ho, to print karo: "Grade: C"
+
+Agar marks 50 ya usse zyada ho, to print karo: "Grade: D"
+
+Agar marks 50 se kam ho, to print karo: "Fail 😢"
+
+👉 Example Input & Output:
+let marks = 85;
+Output: Grade: A
+
+let marks = 45;
+Output: Fail 😢
+
+🔹 Solve karo aur code bhejo! 🚀
