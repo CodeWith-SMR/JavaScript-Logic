@@ -1,5 +1,5 @@
+let myName = "Muhammad Raza";
 
 
 
-
-//01_Exercise/script.js
+//01_Exercise/solve.js
