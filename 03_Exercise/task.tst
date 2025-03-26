@@ -1,5 +1,5 @@
 🔹 Exercise 3: Loops (for loop, while loop)
-
+ 
 👉 Task:
 for loop ka use kar ke 1 se 10 tak numbers print karo.
 
