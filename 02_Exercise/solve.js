@@ -32,3 +32,5 @@ if (marks >= 90 && marks <= 100) {
     //   45	            Fail 😢
     //   -10	        Enter valid marks (0-100)
     //   110	        Enter valid marks (0-100)
+
+    // ...
