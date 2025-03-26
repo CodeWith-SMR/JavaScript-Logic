@@ -19,3 +19,16 @@ if (marks >= 90 && marks <= 100) {
 } else {
     console.log("Enter valid marks (0-100)");
 }
+
+
+Output
+// Input (marks)
+// 95	Grade: A+
+// 90	Grade: A+
+// 85	Grade: A
+// 75	Grade: B
+// 65	Grade: C
+// 55	Grade: D
+// 45	Fail 😢
+// -10	Enter valid marks (0-100)
+// 110	Enter valid marks (0-100)
